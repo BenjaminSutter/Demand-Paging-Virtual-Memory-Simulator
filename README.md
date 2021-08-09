@@ -1,2 +1,2 @@
-# Demand-Paging-Virtual-Memory-Simulator-
+# Demand-Paging-Virtual-Memory-Simulator
 Class project for Operating Systems
